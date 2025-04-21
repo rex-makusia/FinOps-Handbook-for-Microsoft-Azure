@@ -38,14 +38,26 @@ This command will open a pop-up window where you sign into your Azure subscripti
 
 ### Azure Advisor
 - Azure Advisor is a personalized service that scans Azure resources proactively periodically and provides actionable recommendations for workload optimization. To access the Advisor recommendations,you will need at least the **Reader** permission on Azure.
+Follow these steps to access Azure Advisor
 1. Open the Microsoft Edge Browser
 2. Navigate to ***https://portal.azure.com*** and sign in with your organization's account
-3. In the top search bar, search for Monitor and select the highlighted service.
+3. In the top search bar, search for ```Advisor``` and select the highlighted service.
+4. Once it opens, you should be be able to see the overview page with your Advisore score., score history, and recommendation across five categories - **Cost**, **Security**, **Reliabilty**, **Operational Excellence**, and **Performance**.
+
+### Azure Monitor
+- Azure Monitor is a cloud-base monitoring and analytics service used by Microsoft. It collect and analyzes telementary data from various sources, such as applications, infrastructure, and network devices. It helps you identify and troubleshoot issues procactively, optimzed performance, and gain insights for better decision-making.
+- At a minimum, you will need the **Reader** permission in Azure to view the monitoring data and dashboards
+Follow these steps to access Azure Monitor
+1. Open the Microsoft Edge Browser
+2. Navigate to ***https://portal.azure.com*** and sign in with your organization's account
+3. In the top search bar, search for ```Monitor``` and select the highlighted service.
 4. Once it has opened, you will be presented with an overview page that displays your monitor's **Insights**, **Detection**, **Triage**, and **Diagnotics** details.
+
 
 ### Azure Pricing Calculator
 - Azure Pricing Calculator is an online tool that you can estimate the cost of your workload.
 - Once you know what services you will need, you can select those in Pricing Calculator; you can select **SKUs** and **Instance Configuration** to get the monthly  price. Here, you can get estimates for pay-as-you-go, 1-year reservation, and 3-year reservation pricing, which includes a 30-60% discount depending on the service.
+Follow these steps to access Azure Pricing Calculator
 1. Open the **Microsoft Edge** browser.
 2. Navigate to ***https://azure.microsoft.com/calculator*** and log in to Pricing Calculator with your organization's account.
 3. Once, you've logged in, you will be able to create, save and share the pricing estimates.
