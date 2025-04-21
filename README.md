@@ -2,4 +2,4 @@
 The Official Learning Notes for FinOps Handbook for Microsoft Azure by Maulik Soni
 ## Table of Contents
 ### Part 1 : Inform
-#### [Bringing Visibility and Allocating Cost](Part-1-Notes-1.md)
+#### [Bringing Visibility and Allocating Cost](Part-1-Notes.md)
